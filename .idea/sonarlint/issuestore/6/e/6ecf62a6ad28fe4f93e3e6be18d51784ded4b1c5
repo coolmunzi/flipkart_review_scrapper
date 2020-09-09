@@ -1,0 +1,20 @@
+
+<python:S1481M"%Remove the unused local variable "x".(üè‚t
+Tpython:S1481)"0Remove the unused local variable "reviews_html".(ÅééŽúÿÿÿÿ8†›œåÆ.
+Tpython:S5754A"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+=python:S125R"Remove this commented out code.(õÃ‚è8Çó÷äÆ.
+xpython:S117E"\Rename this local variable "custComment" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡²ô™þÿÿÿÿ
+tpython:S117"]Rename this local variable "searchString" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö±ªÊ
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(§Ñáõÿÿÿÿÿ
+Tpython:S5754<"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Tpython:S57546"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+kpython:S1192"LDefine a constant instead of duplicating this literal "html.parser" 3 times.(ØüÌò8Î±åÆ.
+xpython:S117@"\Rename this local variable "commentHead" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ§÷Ðüÿÿÿÿ
+opython:S117"XRename this local variable "prodRes" to match the regular expression ^[_a-z][a-z0-9_]*$.(éêï‚
+spython:S117"\Rename this local variable "productLink" to match the regular expression ^[_a-z][a-z0-9_]*$.(„ðÒ¦
+ypython:S117"]Rename this local variable "flipkartPage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ°½×þÿÿÿÿ
+opython:S117"XRename this local variable "uClient" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á§ÖÖ
+ypython:S117&"[Rename this local variable "allReviews" to match the regular expression ^[_a-z][a-z0-9_]*$.(Èðª…8êÛùäÆ.
+~python:S117%"`Rename this local variable "allReviewbutton" to match the regular expression ^[_a-z][a-z0-9_]*$.(«²ë±8õê‹åÆ.
+Tpython:S5754P"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Tpython:S5754F"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
